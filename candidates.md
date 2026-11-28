@@ -2,7 +2,7 @@
 
 Day 2. One paragraph each, each tied to a real condition.
 
-## 1 · 20, a 20-rupee note
+## 1 · Change, a 20-rupee note
 
 20 is a 20-rupee note that has changed countless hands. It's set in the future, when the shift from paper money to electronic systems is more prominent and people find less and less reasons to use a 20 note. Where does all the paper money end up going when we shift? When does it lose value? As 20 meets less and less people, it folds, crumples, tears, comes undone. Much like the economy now.
 
@@ -16,4 +16,4 @@ Sirohi, a high-ranking soldier's sword from the past. The hilt was polished bras
 
 ## The choice
 
-[Name the candidate you chose first, then why, and why not the other two.]
+I chose a regular 20-rupee note and named it Change. Change could mean change in state, or it could mean the typical "Do you have any change?" Money is a kind of mirror of the world here. I chose this over the other two candidates because the cell tower idea was technically backwards and the sword was too vaguely rooted in history.

@@ -1,3 +1,13 @@
-# Codex metaphor log
+# Metaphor log
 
-Day 3. The five computational metaphors Codex proposed, the one you kept, and what it got wrong.
+Day 3. Computational metaphors proposed by the coding agent from Parts A, B and E of the identity. No code. Two earlier rounds were rejected: palimpsest, hand to hand, crease pattern, erosion and ledger with blanks; then fingerprints, tree rings, mending, wear map and two hands agreeing. The wear map was the one idea carried forward into the final five.
+
+1. **Wear map.** The note is drawn as terrain, with contour lines that bunch tightly where hands touch it most: the corners, the centre fold, the edge pulled from a pocket. *Could fail:* contour maps are a common generative-art look, so it risks looking like anyone's project unless the wear comes from real handling.
+2. **Isochrone.** Contour lines mark how long ago each part of the note was last handled; freshly touched areas have tight lines, and areas left alone during a long stay or a run of digital payments spread out and go quiet. *Could fail:* time is hard for a visitor to read without a key.
+3. **Soundings.** Like depth numbers on a sea chart, small figures across the note record how many hands have touched each spot. *Could fail:* hundreds of numbers become unreadable without restraint.
+4. **Hachures.** Wear is drawn with short strokes, as old maps showed hills, heavier where the note is more worn. *Could fail:* dense hachures turn muddy if the wear is spread evenly.
+5. **Rock strata.** A cross-section of the note's life, one layer per period of handling, with digital stretches as missing layers, what geologists call an unconformity. *Could fail:* it stops looking like a note, which risks breaking rule 1.
+
+**Kept:** none as proposed. The wear map became an idea of my own, *passing the note*: one drawing that follows a single ₹20 through a chain of hand-overs, such as a DMart register, the tapri box at Bagalur Cross and a first year's wallet. Each place leaves its own kind of wear, drawn as a wear map on the note: even, mechanical edge wear at the register; coin marks and soft blotches at the tapri; deep, repeated folds in the wallet. Before each hand-over, the drawing decides whether the next person accepts the note, using real answers from people shown worn notes and asked, "Would you accept this?" A yes passes it on with that place's marks; a no sends it back to wait, leaving only a light touch. Digital payments leave nothing. The print is the note at the end of its journey. Why Change would choose it: Change's value exists only in whether the next person accepts it, so the only honest way to draw it is to follow those decisions, one hand at a time.
+
+**What the agent got wrong:** It kept drawing the note from the outside: as a pretty texture, as something dying, or along a route no hand ever took. It forgot that a note only exists between two people deciding whether to trust it.
